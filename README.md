@@ -53,7 +53,12 @@ Trying to keep my focus together - so Im keeping it at that.
 I like to rub minds and collaborate with like-minds
 
 ### Current Favourite Quote
-_I am not what I think I am, I am not what you think I am, I am what I think you think I am_
+_I am not what I think I am, I am not what you think I am, I am what I think you think I am_   
+
+---
+[![Oloyede Abdulganiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=noble-g&show_icons=true&theme=cobalt)](https://github.com/noble-g/github-readme-stats)   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noble-g&layout=compact)](https://github.com/noble-g/github-readme-stats)
 
 ### Reach Me @:
 * [LinkedIn](https://www.linkedin.com/in/oloyede-abdulganiyu-420785214)
