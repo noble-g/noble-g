@@ -1,5 +1,4 @@
-### Hi Data Bender 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=801&color=113B4D&center=true&vCenter=true&width=430&height=60&lines=Hi+there%2C+Data+bender+%F0%9F%91%8B%F0%9F%8F%BD;Welcome+to+my+portfolio;Feel+free+to+snoop+around+%F0%9F%96%90%F0%9F%8F%BD" alt="Typing SVG" /></a>
 <!--
 **noble-g/noble-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
