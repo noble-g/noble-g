@@ -60,10 +60,14 @@ I write about challenges I've overcome in the course of my peoject so that other
 Trying to keep my focus together - so Im keeping it at that.
  
 ### Feel Free To Pick My Brain About Anything:
-* statistics 
-* data analytics
+* Statistics 
+* Data Analytics
 * Machine Learning
-* getting into the data profession
+* Getting into the data profession
+* Quality control
+* Research Analysis
+* Python Selenium
+* Retail Analytics
 
 I like to rub minds and collaborate with like-minds
 
